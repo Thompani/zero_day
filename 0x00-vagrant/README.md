@@ -1,1 +1,1 @@
-This is a vagrant project teaching student to use other machine in place of the sandbox
+This is a project on vargrant, students ability to use other machines other than the sandbox
